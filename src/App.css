@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+
+*{
+  /* font-size: 1rem; */
+}
+
+@theme {
+  --color-regal-blue: rgb(0, 141, 255);
+}
+/*  */
+body{
+  /* background-color: beige; */
+}
+h1{
+  color: darkblue;
+}
+/* 
+div.item{
+  margin: 1rem;
+  padding: 1rem;
+  border: white 1px solid;
+  border-radius: 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #c5e1e5;
+} */
+
+/* #btnSort, #btnAdd, .btnDelete{
+  padding: 0.25rem 0.5rem;
+  background-color: #3366CC;
+  color:aliceblue;
+  border-radius: 10%;
+}
+
+#btnAdd{
+  margin: 0 5px;
+}
+
+#btnSort{
+  display: block;
+  margin: 2rem auto;
+}
+
+#input{
+  padding: 0.5rem;
+  width: 50%;
+  border: #3366CC 1px solid;
+  border-radius: 10px;
+}
+.fa-trash{
+  width: 100%;
+} */
